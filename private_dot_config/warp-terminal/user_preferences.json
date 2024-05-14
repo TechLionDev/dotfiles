@@ -1,0 +1,14 @@
+{
+  "prefs": {
+    "SelectedSystemThemes": "{\"light\":\"Light\",\"dark\":{\"Custom\":{\"name\":\"Catppuccin Mocha\",\"path\":\"/home/jeremiahis/.local/share/warp-terminal/themes/catppuccin_mocha.yaml\"}}}",
+    "ExperimentId": "50b31470-40e4-4715-8537-79afb53f2d76",
+    "SystemTheme": "true",
+    "Shortcuts": "true",
+    "ChangelogVersions": "{\"v0.2024.03.26.08.02.stable_02\":true}",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "AutosuggestionAcceptedCount": "2",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Action\":\"ThemePicker\"},{\"Action\":\"CommandPalette\"},{\"Hint\":\"BlockSelect\"}]",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-04-02T19:09:38.120744481Z\"}",
+    "FontSize": "13.0"
+  }
+}
