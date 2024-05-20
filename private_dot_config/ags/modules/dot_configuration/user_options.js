@@ -29,7 +29,7 @@ let configOptions = {
         'network': "XDG_CURRENT_DESKTOP=\"gnome\" gnome-control-center wifi",
         'settings': "XDG_CURRENT_DESKTOP=\"gnome\" gnome-control-center wifi",
         'taskManager': "gnome-usage",
-        'terminal': "foot", // This is only for shell actions
+        'terminal': "kitty", // This is only for shell actions
     },
     'battery': {
         'low': 20,
@@ -75,13 +75,13 @@ let configOptions = {
     },
     'search': {
         'engineBaseUrl': "https://www.google.com/search?q=",
-        'excludedSites': ["quora.com"],
+        // 'excludedSites': ["quora.com"],
     },
     'time': {
         // See https://docs.gtk.org/glib/method.DateTime.format.html
         // Here's the 12h format: "%I:%M%P"
         // For seconds, add "%S" and set interval to 1000
-        'format': "%H:%M",
+        'format': "%I:%M %p",
         'interval': 5000,
         'dateFormatLong': "%A, %d/%m", // On bar
         'dateInterval': 5000,
